@@ -1,5 +1,3 @@
-# demo-markdown
-Petite demo de Markdown
 # Mon premier Markdown
 ## Objectifs
 
